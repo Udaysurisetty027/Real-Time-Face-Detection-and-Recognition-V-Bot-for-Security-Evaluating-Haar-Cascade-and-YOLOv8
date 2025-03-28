@@ -1,0 +1,2 @@
+# Real-Time-Face-Detection-and-Recognition-V-Bot-for-Security-Evaluating-Haar-Cascade-and-YOLOv8
+ This project compares Haar Cascade and YOLOv8 frameworks for real-time face de tection, recognition, along with headcount, gender detection, and pre dicting human mood across static images, videos, and live streams. In this approach, we had created Visual-bot [V-Bot] to detect, recognize, and the results highlight YOLOv8’s .
